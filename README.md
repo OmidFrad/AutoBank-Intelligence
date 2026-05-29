@@ -1,7 +1,5 @@
-# BankFlow Automator
-
-A portfolio-ready Python project for automating banking transaction analysis.
-
+# AutoBank Intelligence
+AI-powered banking transaction automation for intelligent financial data workflows.
 BankFlow Automator ingests bank transaction CSV files, trains a machine learning model to categorize transactions, detects unusual transactions, identifies recurring payments, and exposes the workflow through a FastAPI API.
 
 > This project uses synthetic sample data. Do not commit real banking data, account numbers, credentials, API keys, or customer information to GitHub.
